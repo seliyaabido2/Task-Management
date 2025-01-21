@@ -1,0 +1,13 @@
+/public/build
+/public/uploads
+/public/storage
+/storage/*
+/vendor
+/.fleet
+/.idea
+/.vscode
+.env.example
+.phpunit.result.cache
+.htaccess
+composer.lock
+package-lock.json

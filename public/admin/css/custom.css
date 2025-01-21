@@ -1,0 +1,58 @@
+
+.error {
+    color: red;
+}
+.vali {
+    color: red;
+}
+
+.login-logo a img {
+    max-width: 55% !important;
+}
+
+.action_buttons
+{
+    text-align: center;
+}
+
+.table tbody tr td,th {
+    text-align: center;
+}
+.logo a {
+    text-align: center;
+}
+.logo a img{
+    width: 100% !important;
+    height: auto !important;
+    margin: auto !important;
+}
+.login-logo a{
+    width: 100%;
+}
+
+.copyright{
+    text-align: center;
+    padding: 20px 0;
+    padding-top: 20px;
+    position: sticky;    
+    bottom: 0;
+    width: 115%;
+    left: 0;
+    background: #fff;
+    z-index: 10;
+}
+
+.main-content {
+    padding-bottom: 110px;
+}
+.dataTables_empty{
+    text-align: center !important;
+}
+
+/* .table-top-campaign.table td {
+    word-break: break-all;
+}
+
+.cst-table table.dataTable {
+    width: unset !important;
+} */
